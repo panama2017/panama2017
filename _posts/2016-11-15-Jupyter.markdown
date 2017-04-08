@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      "Jupyter"
+subtitle:   "Tower of Babel"
+date:       2016-11-15
+author:     "Baoxiang Pan"
+header-img: "img/home.jpg"
+comments: true
+---
+
+Different softwares hold particular advantages for surviving in their communities. For me, _Mathematica_ fulfills most of my requirements for scientific calculation, data visulization and presentation. But the **.nb** files are hard to be transfered to other computers since not everyone can afford MMA or shamelessly crack it(despicable me). Also occationally I would miss the object-oriented and charge-free feature of Python, I would use the ugly matlab code created by those with bad tastes, I would miss the beautifully printed equations created by LaTex, I would pick up my childhood dream of being a lisper and reinvent every wheel with the most elegant _scheme_. And for all of these softwares, I want to use the shortcuts of VIM in them.
+  
+Yes I can combine them together in terminal, only missing the fatal pleasure of transfering seamlessly from what I did and what I saw. But is there a better solution, like a free and universally-installed _Mathematica_? If you can specify what you want, you are really close to the answer. Yes, the current optimal answer in my perspective is Jupyter.
+
+Most commercial softwares we use have two parts, its **kernel** and **user interface**, or we can say its **back ends** and **front ends**, its **soul** and **appearance**. If a software is not used for the final presenting purpose, the time cost we afford for its **front end** should be minimized. A good way out is to invent the Tower of Babel for all kernels. One can write the documentation (with equations, graphics, voices, animations and any other medias), call every software to clarify his/her idea in this working environment, show the results on every online computer, and only focus on the work that really requires genius and invention. 
+
+I will use the following cases to verify Jupyter as the Tower of Babel in front end:
+
+* Call Softwares
+* Perform Publishable Presentations
+
+## Call Softwares
+
+
+
+
+
