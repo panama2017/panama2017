@@ -1,12 +1,12 @@
 # Site settings
 title: lambda
-header-img: img/home.jpg
+header-img: img/home.eps
 email: baoxianp@uci.edu
 description: "Baoxiang Pan"
 # baseurl: "/"
-url: "http://lambdamore.github.io/"
+url: "http://panama2017.github.io/"
 #zhihu_username: pan-xiao-25
-github_username: lambdamore
+github_username: panama2017
 #facebook_username:  
 
 # Build settings
